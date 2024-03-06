@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(243, 133, 175);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+#awe{
+    color: #0000ff;
+    font-size: 36px;
+}
+.bigger{
+    font-size: 24px;
+}
+#apart{
+    background-color: hsl(93, 91%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
